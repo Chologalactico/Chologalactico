@@ -3,12 +3,12 @@
   <img src ="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width ="250" height="250"/>
 <h1 align="center">Hi there 👋, i´m Chologalactico <h1/>  
   <!--<h3 align = "center"> A person who is passionate about software, I am from Colombia, I like to help you for whatever you need, just write me <h3/>-->
+</div>
   let aboutMe = {
   birthPlace: "Cali, Colombia",
   specializing: "Full stack software engineer",
   interest: ["dancing", "digital drawing", "writer"],
 };
-</div>
 <div id="badges" align ="center,left"> 
   <a href ="https://discord.com/channels/@me" target="blank">
     <img src ="https://img.shields.io/twitter/follow/galacticocholo?color=violet&label=Discord&logo=Discord&style=for-the-badge" alt="Discord"/>
