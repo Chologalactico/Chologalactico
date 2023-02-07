@@ -12,8 +12,8 @@
 ---
 ### About Me:
 
-- 👯 Ask me about ** JavaScript, C++, Java **
-- 🤔 I’m currently learning **ReactJS , Pyton , PHP ** 
+- 👁 Ask me about ** JavaScript, C++, Java **
+- 🌚 I’m currently learning **ReactJS , Pyton , PHP ** 
 - ⚡ Frontend and Backend builder of big and small projects
 
 <div align ="left"> 
