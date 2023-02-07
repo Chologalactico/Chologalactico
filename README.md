@@ -5,8 +5,8 @@
   <h3 align = "center"> A passionate the software from Colombia , i like coding and we hel the people   <h3/>
 </div>
 <div id="badges" align ="center"> 
-  <a href ="" target="blank">
-    <img src ="[https://img.shields.io/discord/galacticocholo?color=blue%20&logo=discord&style=for-the-badge](https://img.shields.io/discord/galacticocholo?color=blue%20&logo=discord&style=for-the-badge)" alt="Discord"/>
+  <a href ="https://discord.com/channels/@me" target="blank">
+    <img src ="https://img.shields.io/discord/chologalactico?logo=discord&style=for-the-badge" alt="Discord"/>
   <div/>
 
 
