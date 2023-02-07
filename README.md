@@ -9,7 +9,7 @@
     <img src ="https://img.shields.io/discord/galacticocholo?color=blue%20&logo=discord&style=for-the-badge" alt="Discord"/>
   <div/>
 
-**Chologalactico/Chologalactico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
