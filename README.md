@@ -2,6 +2,7 @@
 <div id = "header" align="center">
   <img src ="https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/giphy.gif" width ="200"/>
 <p align="center">
+  
   <img src="<img src="https://i.imgur.com/GZHodUG.png" width="100px"/>" width="100px"/>
   
   <h3 align="center">Github Readme Streak Stats</h3>
