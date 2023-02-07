@@ -2,8 +2,6 @@
 <div id = "header" align="center">
   <img src ="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" width ="200"/>
 <h1 align="center">Hi there 👋, i´m Chologalactico <h1/>  
-  <br>
-  <br>
   <h3 align = "center"> A passionate the software from Colombia , i like coding and we help the people   <h3/>
 </div>
 <div id="badges" align ="center,left"> 
