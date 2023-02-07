@@ -1,8 +1,6 @@
 
 <div id = "header" align="center">
   <img src ="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" width ="200"/>
-  <br>
-  <br>
 <h1 align="center">Hi there 👋, i´m Chologalactico <h1/>  
   <br>
   <br>
