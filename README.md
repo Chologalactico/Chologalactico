@@ -11,11 +11,12 @@
 <div id="badges" align ="center"> 
   <a href ="https://discord.com/channels/@me" target="blank">
     <img src ="https://img.shields.io/discord/chologalactico?logo=discord&style=for-the-badge" alt="Discord"/>
-  <div/>
     <div id="badges" align ="center"> 
-  <a href ="https://discord.com/channels/@me" target="blank">
+  <a href ="https://www.instagram.com" target="blank">
     <img src ="https://img.shields.io/twitter/url?logo=instagram&style=for-the-badge&url=j.c2014" alt="Discord"/>
   <div/>
+  <div/>
+    
     
 ---
 ### About Me:
