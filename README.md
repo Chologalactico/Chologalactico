@@ -10,7 +10,7 @@
   specializing: "Full stack software engineer",
   interest: ["dancing", "digital drawing", "writer"],
 };
-    <div/>
+    </div>
 <div id="badges" align ="center,left"> 
   <a href ="https://discord.com/channels/@me" target="blank">
     <img src ="https://img.shields.io/twitter/follow/galacticocholo?color=violet&label=Discord&logo=Discord&style=for-the-badge" alt="Discord"/>
