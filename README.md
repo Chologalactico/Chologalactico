@@ -4,7 +4,10 @@
 <h1 align="center">Hi there 👋, i´m Chologalactico <h1/>  
   <h3 align = "center"> A passionate the software from Colombia , i like coding and we hel the people   <h3/>
 </div>
-
+<div id="badges" align ="center"> 
+  <a href ="" target="blank">
+    <img src ="https://img.shields.io/discord/galacticocholo?color=blue%20&logo=discord&style=for-the-badge" alt="Discord"/>
+  <div/>
 
 **Chologalactico/Chologalactico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
