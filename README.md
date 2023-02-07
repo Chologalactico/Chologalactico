@@ -15,7 +15,8 @@
     
 ---
 ### About Me:
-
+    
+- 👁 How to reach me  galacticocholo@gmail.com
 - 👁 Ask me about ** JavaScript, C++, Java **
 - 🌚 I’m currently learning **ReactJS , Pyton , PHP ** 
 - ⚡ Frontend and Backend builder of big and small projects
