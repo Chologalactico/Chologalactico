@@ -15,7 +15,7 @@
   <a href ="https://www.instagram.com/j.c2014/" target="blank">
     <img src ="https://img.shields.io/twitter/url?logo=instagram&style=for-the-badge&url=@j.c2014" alt="Discord"/>
     <a href ="https://twitter.com/galacticocholo" target="blank">
-    <img src ="https://img.shields.io/twitter/follow/galacticocholo?logo=twitter" alt="Discord"/>
+    <img src ="https://img.shields.io/twitter/follow/galacticocholo?logo=twitter&style=for-the-badge" alt="Discord"/>
   <div/>
     
     
