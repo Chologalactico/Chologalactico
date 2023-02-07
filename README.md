@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div id = "header" align="center">
   <img src ="https://media.giphy.com/media/xTiTnBELA6Mb1TeeOc/giphy.gif" width ="200"/>
-<h1 align="center">Hi there 👋, i´m Juan Jose <h1/>   
+<h1 align="center">Hi there 👋, i´m Chologalactico <h1/>   
 </div>
 <p align="center">  
   <h3 align="center">Github Readme Streak Stats</h3>
