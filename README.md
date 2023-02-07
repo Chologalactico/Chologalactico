@@ -14,16 +14,18 @@
      
   <a href ="https://www.instagram.com" target="blank">
     <img src ="https://img.shields.io/twitter/url?logo=instagram&style=for-the-badge&url=@j.c2014" alt="Discord"/>
+    <a href ="https://twitter.com/galacticocholo" target="blank">
+    <img src ="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=twitter&style=for-the-badge&url=%40galacticocholo" alt="Discord"/>
   <div/>
     
     
 ---
 ### About Me:
     
--👁 How to reach me  galacticocholo@gmail.com
--👁 Ask me about ** JavaScript, C++, Java **
--🌚 I’m currently learning **ReactJS , Pyton , PHP ** 
--⚡ Frontend and Backend builder of big and small projects
+- 👁 How to reach me  galacticocholo@gmail.com
+- 👁 Ask me about ** JavaScript, C++, Java **
+- 🌚 I’m currently learning **ReactJS , Pyton , PHP ** 
+- ⚡ Frontend and Backend builder of big and small projects
 
 <div align ="left"> 
   <h3>🔨 Lenguaje and Tools:<h3/>
