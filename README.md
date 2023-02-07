@@ -6,7 +6,7 @@
 </div>
 <div id="badges" align ="center"> 
   <a href ="" target="blank">
-    <img src ="https://img.shields.io/discord/galacticocholo?color=blue%20&logo=discord&style=for-the-badge" alt="Discord"/>
+    <img src ="[https://img.shields.io/discord/galacticocholo?color=blue%20&logo=discord&style=for-the-badge](https://img.shields.io/discord/galacticocholo?color=blue%20&logo=discord&style=for-the-badge)" alt="Discord"/>
   <div/>
 
 
