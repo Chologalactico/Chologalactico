@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
-  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
+  <img src="<img src="https://i.imgur.com/GZHodUG.png" width="100px"/>" width="100px"/>
+  
   <h3 align="center">Github Readme Streak Stats</h3>
 </p>
 
