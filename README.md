@@ -30,8 +30,5 @@
     <img src ="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" tittle="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"tittle="C" alt="C" width="40" height="40"/>&nbsp;
   <div/>
-    ---
-    ### My Stats:
-    
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  
     
