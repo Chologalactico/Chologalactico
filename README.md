@@ -6,8 +6,6 @@
 <h1 align="center">Hi there 👋, i´m Chologalactico <h1/>  
   <br>
   <br>
-  <br>
-  <br>
   <h3 align = "center"> A passionate the software from Colombia , i like coding and we hel the people   <h3/>
 </div>
 <div id="badges" align ="center"> 
