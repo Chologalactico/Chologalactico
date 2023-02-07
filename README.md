@@ -14,6 +14,7 @@
      
   <a href ="https://www.instagram.com/j.c2014/" target="blank">
     <img src ="https://img.shields.io/twitter/follow/j.c2014?color=orange&label=Instagram&logo=instagram&style=for-the-badge" alt="Inatgram"/>
+    
     <a href ="https://twitter.com/galacticocholo" target="blank">
     <img src ="https://img.shields.io/twitter/follow/galacticocholo?logo=twitter&style=for-the-badge" alt="Twitter"/>
   <div/>
@@ -22,7 +23,7 @@
 ---
 ### About Me:
     
-- 👁 How to reach me  galacticocholo@gmail.com
+- 📨 How to reach me  galacticocholo@gmail.com
 - 👁 Ask me about ** JavaScript, C++, Java **
 - 🌚 I’m currently learning **ReactJS , Pyton , PHP ** 
 - ⚡ Frontend and Backend builder of big and small projects
@@ -33,7 +34,7 @@
     <img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" tittle="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" tittle="Java" alt="Java" width="40" height="40"/>&nbsp;
-    
+    <img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"tittle="C" alt="C" width="40" height="40"/>&nbsp;
     
     
     
