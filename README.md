@@ -23,9 +23,10 @@
 <div align ="left"> 
   <h3>🔨 Lenguaje and Tools:<h3/>
 <img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" tittle="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" tittle="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src ="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" tittle="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-     <img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" tittle="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" tittle="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src ="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" tittle="Java" alt="Java" width="40" height="40"/>&nbsp;
+    
     
     
     
