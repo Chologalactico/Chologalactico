@@ -19,5 +19,5 @@
 <div align ="left"> 
   <h3>🔨 Lenguaje and Tools:<h3/>
     <div>
-      <img src ="[https://www.google.com/search?q=html&client=opera-gx&hs=HfH&sxsrf=AJOqlzU_ZVmiAulrKaeo0CdhkB3Aev5OMg:1675736196052&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjsu8_lq4L9AhUil2oFHW4NBXkQ_AUoAXoECAEQAw&biw=1661&bih=829&dpr=1.13#imgrc=gs0pHlzfoD5WMM](https://www.pngwing.com/es/free-png-incoh)" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+      <img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Fhtml-5_919827&psig=AOvVaw1CM30deewCeddLgCW_UrBV&ust=1675824005993000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCfz4axgv0CFQAAAAAdAAAAABAE" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
   <div/>
