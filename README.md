@@ -19,5 +19,5 @@
 <div align ="left"> 
   <h3>🔨 Lenguaje and Tools:<h3/>
     <div>
-      <img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Fhtml-5_919827&psig=AOvVaw1CM30deewCeddLgCW_UrBV&ust=1675824005993000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCfz4axgv0CFQAAAAAdAAAAABAE" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
+      <img src =https://img.shields.io/badge" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
   <div/>
