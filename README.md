@@ -16,7 +16,7 @@
     <img src ="https://img.shields.io/twitter/follow/j.c2014?color=orange&label=Instagram&logo=instagram&style=for-the-badge" alt="Inatgram"/>
     
     <a href ="https://twitter.com/galacticocholo" target="blank">
-    <img src ="https://img.shields.io/twitter/follow/galacticocholo?logo=twitter&style=for-the-badge" alt="Twitter"/>
+    <img src ="https://img.shields.io/twitter/follow/galacticocholo?color=blue&logo=twitter&style=for-the-badge" alt="Twitter"/>
   <div/>
     
     
