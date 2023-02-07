@@ -21,3 +21,8 @@
     <div>
       <img src =https://img.shields.io/badge" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
   <div/>
+                                                                                             <div id="badges" align ="left"> 
+  <a href ="https://discord.com/channels/@me" target="blank">
+    <img src ="https://img.shields.io/discord/chologalactico?logo=discord&style=for-the-badge" alt="Discord"/>
+  <div/>
+    
