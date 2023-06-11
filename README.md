@@ -31,8 +31,8 @@
     <img src ="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" tittle="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"tittle="C" alt="C" width="40" height="40"/>&nbsp;
      <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"tittle="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src ="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"tittle="C" alt="C" width="40" height="40"/>&nbsp;
-      <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"tittle="C" alt="C" width="40" height="40"/>&nbsp;
+    <img src ="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"tittle="C" alt="C" width="40" height="40"/>&nbsp;
+      <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"tittle="C" alt="C" width="40" height="40"/>&nbsp;
   <div/>
   
     
