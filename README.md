@@ -2,7 +2,7 @@
 <div id = "header" align="center">
   <img src ="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width ="250" height="250"/>
 <h1 align="center">Hi there 👋, i´m Chologalactico <h1/>  
-  <h3 align = "center"> 👋 ¡Hola! Soy un desarrollador apasionado por la ciberseguridad, el desarrollo web y la optimización de algoritmos. Me encanta crear aplicaciones robustas en Nest.js, Spring Boot y Python, además de trabajar con bases de datos como PostgreSQL, MySQL y MongoDB. Actualmente estoy desarrollando microservicios con Apache Camel y orquestación reactiva en Spring WebFlux. También disfruto creando interfaces con Tailwind CSS y optimizando algoritmos numéricos. 🚀 <h3/>
+  <h3 align = "center"> 👋 Hi! I'm a developer passionate about cybersecurity, web development, and algorithm optimization. I love building robust applications using Nest.js, Spring Boot, and Python, while working with databases like PostgreSQL, MySQL, and MongoDB. Currently, I'm developing microservices with Apache Camel and reactive orchestration in Spring WebFlux. I also enjoy crafting interfaces with Tailwind CSS and optimizing numerical algorithms. 🚀 <h3/>
 </div>
   
 <div id="badges" align ="center,left"> 
@@ -35,6 +35,8 @@
     <img src ="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src ="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+
 
 
 
