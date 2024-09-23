@@ -34,7 +34,7 @@
     <img src ="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"tittle="C" alt="C" width="40" height="40"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"tittle="C" alt="C" width="40" height="40"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 
 
   <div/>
