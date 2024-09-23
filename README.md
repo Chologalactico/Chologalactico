@@ -20,7 +20,7 @@
     
 - 📨 How to reach me  galacticocholo@gmail.com
 - 👁 Ask me about ** JavaScript, C++, Java **
-- 🌚 I’m currently learning **ReactJS , Pyton , PHP ** 
+- 🌚 I’m currently learning **Nest.js , Pyton , PHP ** 
 - ⚡ Frontend and Backend builder of big and small projects
 
 <div align ="left"> 
