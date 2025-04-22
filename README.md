@@ -37,7 +37,8 @@
     <img src ="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;}
+     <img src ="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" tittle="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 
 
 
