@@ -8,8 +8,6 @@
 <div id="badges" align ="center,left"> 
   <a href ="https://discord.com/channels/@me" target="blank">
     <img src ="https://img.shields.io/twitter/follow/galacticocholo?color=violet&label=Discord&logo=Discord&style=for-the-badge" alt="Discord"/>
-  <a href ="https://www.instagram.com/j.c2014/" target="blank">
-    <img src ="https://img.shields.io/twitter/follow/j.c2014?color=orange&label=Instagram&logo=instagram&style=for-the-badge" alt="Inatgram"/>
     <a href ="https://twitter.com/galacticocholo" target="blank">
     <img src ="https://img.shields.io/twitter/follow/galacticocholo?color=blue&label=Twitter&logo=twitter&style=for-the-badge" alt="Twitter"/>
   <div/>
@@ -19,8 +17,8 @@
 ### About Me:
     
 - 📨 How to reach me  galacticocholo@gmail.com
-- 👁 Ask me about ** JavaScript, C++, Java **
-- 🌚 I’m currently learning **Nest.js , Pyton , PHP ** 
+- 👁 Ask me about ** Next.js, C++, Java **
+- 🌚 I’m currently learning **GO , Pyton , PHP ** 
 - ⚡ Frontend and Backend builder of big and small projects
 
 <div align ="left"> 
