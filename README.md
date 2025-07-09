@@ -17,8 +17,8 @@
 ### About Me:
     
 - 📨 How to reach me  galacticocholo@gmail.com
-- 👁 Ask me about ** Next.js, C++, Java **
-- 🌚 I’m currently learning **GO , Pyton , PHP ** 
+- 👁 Ask me about ** .NET, C++, Java **
+- 🌚 I’m currently learning **GO , AWS , PHP ** 
 - ⚡ Frontend and Backend builder of big and small projects
 
 <div align ="left"> 
