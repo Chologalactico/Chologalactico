@@ -2,17 +2,8 @@
 <div id = "header" align="center">
   <img src ="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width ="250" height="250"/>
 <h1 align="center">Hi there 👋, i´m Chologalactico <h1/>  
-  <h3 align = "center"> I'm a developer passionate about cybersecurity, web development, and algorithm optimization. I love building robust applications using Nest.js,Next.js, Spring Boot, and Python, while working with databases like PostgreSQL, MySQL, and MongoDB. Currently, I'm developing microservices with Apache Camel and reactive orchestration in Spring WebFlux. I also enjoy crafting interfaces with Tailwind CSS and optimizing numerical algorithms. 🚀 <h3/>
+  <h3 align = "center"> I'm a developer passionate about cybersecurity, web development, and algorithm optimization. I love building robust applications using Nest.js,Next.js,.Net,C#, Spring Boot, and Python, while working with databases like PostgreSQL, MySQL, and MongoDB. Currently, I'm developing microservices with Apache Camel and reactive orchestration in Spring WebFlux. I also enjoy crafting interfaces with Tailwind CSS and optimizing numerical algorithms. 🚀 <h3/>
 </div>
-  
-<div id="badges" align ="center,left"> 
-  <a href ="https://discord.com/channels/@me" target="blank">
-    <img src ="https://img.shields.io/twitter/follow/galacticocholo?color=violet&label=Discord&logo=Discord&style=for-the-badge" alt="Discord"/>
-    <a href ="https://twitter.com/galacticocholo" target="blank">
-    <img src ="https://img.shields.io/twitter/follow/galacticocholo?color=blue&label=Twitter&logo=twitter&style=for-the-badge" alt="Twitter"/>
-  <div/>
-    
-    
 ---
 ### About Me:
     
