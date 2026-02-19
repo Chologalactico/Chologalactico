@@ -67,11 +67,10 @@ const aboutMe = {
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Portfolio
 
 <div align="center">
 
-![Chologalactico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chologalactico&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chologalactico&layout=compact&theme=tokyonight&hide_border=true)
+![Chologalactico's Portfolio](https://juancastro.vercel.app)
 
 </div>>
