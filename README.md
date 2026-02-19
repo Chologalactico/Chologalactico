@@ -2,7 +2,12 @@
 <div id = "header" align="center">
   <img src ="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width ="250" height="250"/>
 <h1 align="center">Hi there 👋, i´m Chologalactico <h1/>  
-  <h3 align = "center"> I'm a developer passionate about cybersecurity, web development, and algorithm optimization. I love building robust applications using Nest.js,Next.js,.Net,C#, Spring Boot, and Python, while working with databases like PostgreSQL, MySQL, and MongoDB. Currently, I'm developing microservices with Apache Camel and reactive orchestration in Spring WebFlux. I also enjoy crafting interfaces with Tailwind CSS and optimizing numerical algorithms. 🚀 <h3/>
+  <h3 align="center">
+I build AI-first products across web and mobile: shipping full-stack experiences with Next.js, NestJS, and FastAPI, LLM applications with RAG and agents, and cloud-ready architectures on AWS and Azure.
+Currently focused on end-to-end RAG systems, LangChain flows, tool-augmented LLM apps, lightweight agents, and practical MLOps (monitoring & deployment). 
+Background in backend engineering, microservices, and scalable systems using PostgreSQL, MongoDB, and modern cloud infrastructure — always learning by building. 🚀
+</h3>
+
 </div>
 ---
 ### About Me:
