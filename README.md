@@ -16,28 +16,25 @@ Background in backend engineering, microservices, and scalable systems using Pos
 
 ```javascript
 const experience = [
-  { company: "Rappi",       role: "AI Software Engineer",      period: "Current"     },
-  { company: "Q-Vision",    role: "Senior Development Analyst", period: "2024 - 2025" },
-  { company: "Senavia Corp",role: "Software Engineer Lead",     period: "2025"        },
+  { role: "AI Software Engineer", company: "Rappii", period: "Current" },
+  { role: "Senior Development Analyst", company: "Q-Vision", period: "2024 – 2025" },
+  { role: "Software Engineer Lead", company: "Senavia Corp", period: "2025" }
 ];
 
-const learningIA = [
-  "RAG end-to-end",
-  "LangChain flows",
-  "LLM apps with tools",
-  "Lightweight agents",
-  "MLOps básico (monitoring/deploy)",
+const currentFocus = [
+  "End-to-end RAG systems",
+  "LangChain & LLM orchestration",
+  "Tool-augmented LLM apps",
+  "Lightweight AI agents",
+  "Practical MLOps (monitoring & deployment)"
 ];
 
-const aboutMe = {
-  birthPlace:    "Cali, Colombia",
-  specializing:  "Full stack software engineer",
-  interest:      ["digital drawing", "write", "game dev", "hackathons"],
-  experience,
-  currentFocus:  () => learningIA.slice(0, 3).join(" | "),
-  contact:       "galacticocholo@gmail.com",
-  askMeAbout:    [".NET", "C++", "Java"],
-  learning:      ["Go", "AWS", "PHP"],
+const stack = {
+  backend: ["NestJS", "FastAPI", ".NET", "Spring Boot"],
+  frontend: ["Next.js", "React", "TailwindCSS"],
+  databases: ["PostgreSQL", "MongoDB", "MySQL"],
+  cloud: ["AWS", "Azure"],
+  architecture: ["Microservices", "Reactive Systems", "REST APIs"]
 };
 ```
 
