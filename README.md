@@ -10,8 +10,45 @@
 
 ###
 
-<p align="center">I build AI-first products across web and mobile: shipping full-stack experiences with Next.js, NestJS, and FastAPI, LLM applications with RAG and agents, and cloud-ready architectures on AWS and Azure.<br><br>Currently focused on end-to-end RAG systems, LangChain flows, tool-augmented LLM apps, lightweight agents, and practical MLOps (monitoring & deployment).<br><br>Background in backend engineering, microservices, and scalable systems using PostgreSQL, MongoDB, and modern cloud infrastructure — always learning by building. 🚀</p>
+<div id="header" align="center">
 
+<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="250" height="250"/>
+
+<h1>Hi there 👋, I'm Chologalactico</h1>
+
+<h3>I build AI-first products across web and mobile: shipping full-stack experiences with Next.js, NestJS, and FastAPI, LLM applications with RAG and agents, and cloud-ready architectures on AWS and Azure.<br/><br/>
+Currently focused on end-to-end RAG systems, LangChain flows, tool-augmented LLM apps, lightweight agents, and practical MLOps (monitoring & deployment).<br/><br/>
+Background in backend engineering, microservices, and scalable systems using PostgreSQL, MongoDB, and modern cloud infrastructure — always learning by building. 🚀</h3>
+
+</div>
+
+---
+
+### 👤 About Me
+
+```javascript
+const experience = [
+  { role: "AI Software Engineer", company: "Rappii", period: "Current" },
+  { role: "Senior Development Analyst", company: "Q-Vision", period: "2024 – 2025" },
+  { role: "Software Engineer Lead", company: "Senavia Corp", period: "2025" }
+];
+
+const currentFocus = [
+  "End-to-end RAG systems",
+  "LangChain & LLM orchestration",
+  "Tool-augmented LLM apps",
+  "Lightweight AI agents",
+  "Practical MLOps (monitoring & deployment)"
+];
+
+const stack = {
+  backend: ["NestJS", "FastAPI", ".NET", "Spring Boot"],
+  frontend: ["Next.js", "React", "TailwindCSS"],
+  databases: ["PostgreSQL", "MongoDB", "MySQL"],
+  cloud: ["AWS", "Azure"],
+  architecture: ["Microservices", "Reactive Systems", "REST APIs"]
+};
+```
 ###
 
 <h2 align="left">I code with</h2>
