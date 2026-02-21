@@ -10,8 +10,6 @@
 
 ###
 
-<h1>Hi there 👋, I'm Chologalactico</h1>
-
 <h3>I build AI-first products across web and mobile: shipping full-stack experiences with Next.js, NestJS, and FastAPI, LLM applications with RAG and agents, and cloud-ready architectures on AWS and Azure.<br/><br/>
 Currently focused on end-to-end RAG systems, LangChain flows, tool-augmented LLM apps, lightweight agents, and practical MLOps (monitoring & deployment).<br/><br/>
 Background in backend engineering, microservices, and scalable systems using PostgreSQL, MongoDB, and modern cloud infrastructure — always learning by building. 🚀</h3>
