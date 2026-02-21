@@ -10,10 +10,6 @@
 
 ###
 
-<div id="header" align="center">
-
-<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="250" height="250"/>
-
 <h1>Hi there 👋, I'm Chologalactico</h1>
 
 <h3>I build AI-first products across web and mobile: shipping full-stack experiences with Next.js, NestJS, and FastAPI, LLM applications with RAG and agents, and cloud-ready architectures on AWS and Azure.<br/><br/>
@@ -115,20 +111,4 @@ const stack = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=juan.juan&"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/juan/juan/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=juan.juan&"  />
-</div>
-
-###
