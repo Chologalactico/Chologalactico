@@ -8,9 +8,10 @@
 
 ```javascript
 const experience = [
-  { role: "AI Software Engineer", company: "Rappii", period: "Current" },
-  { role: "Senior Development Analyst", company: "Q-Vision", period: "2024 – 2025" },
-  { role: "Software Engineer Lead", company: "Senavia Corp", period: "2025" }
+  { role: "AI Automation Engineer", company: "Freelance", period: "Current" },
+  { role: "Backend Engineer", company: "SenaviaCorp", period: "2025-2025" },
+  { role: "Ai/FullStack Engineer", company: "Foodhy", period: "2023 – Present" },
+  { role: "Bug Bounty", company: "HackerOne", period: "2023 - 2025" }
 ];
 
 const currentFocus = [
@@ -22,9 +23,9 @@ const currentFocus = [
 ];
 
 const stack = {
-  backend: ["NestJS", "FastAPI", ".NET", "Spring Boot"],
-  frontend: ["Next.js", "React", "TailwindCSS"],
-  databases: ["PostgreSQL", "MongoDB", "MySQL"],
+  backend: ["NestJS", "FastAPI", ".NET", "Spring Boot","Java","Langchain"],
+  frontend: ["Angular","Next.js", "React", "TailwindCSS"],
+  databases: ["PostgreSQL", "MongoDB", "MySQL","SupaBase"],
   cloud: ["AWS", "Azure"],
   architecture: ["Microservices", "Reactive Systems", "REST APIs"]
 };
