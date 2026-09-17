@@ -12,7 +12,8 @@ const experience = [
   { role: "Backend Engineer", company: "SenaviaCorp", period: "2025-2025" },
   { role: "Ai/FullStack Engineer", company: "Foodhy", period: "2023 – Present" },
   { role: "Bug Bounty", company: "HackerOne", period: "2023 - 2025" },
-  { role: "FullStack Enginner", company: "Want N Get", period: "2026 - Present" }
+  { role: "FullStack Enginner", company: "Want N Get", period: "2026 - 2026" }
+  { role: "FullStack Enginner", company: "Duana&Cia", period: "2026 - 2027" }
 ];
 
 const currentFocus = [
